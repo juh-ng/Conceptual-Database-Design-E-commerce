@@ -1,5 +1,4 @@
-# Projeto Conceitual: E-COMMERCE
+# Concept Project: E-COMMERCE
+# About 
 
-# Sobre o projeto 
-
-Este projeto é um modelo conceitual de um banco de dados contruído durante a realização do primeiro desafio *Refinando um modelo conceitual de Banco de Dados E-COMMERCE*, da trilha: Formação SQL Database Specialist 
+This project is a conceptual model of a database built during the realization of the first challenge *Refining a conceptual model of E-COMMERCE Database*, of the track: SQL Database Specialist Training 
